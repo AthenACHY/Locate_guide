@@ -71,7 +71,7 @@ Locateguide accept any genome assemblies can be indexed by SAMTools and BWA. If 
 #### Dependent packages
 Locateguide functions with readily callable BWA and SAMtools in the linux environment. 
 
-### input information and paths###
+### input information and paths
 **-1**   $PATH to read 1 fastq file. **N.B** decompress .gz file before input  
 **-2**   $PATH to read 2 fastq file. **N.B** decompress .gz file before input  
 **-ref**   $PATH to reference genome and index files for BWA and SAMtools. [check for details on preparing BWA and SAMtools index](https://gatkforums.broadinstitute.org/gatk/discussion/2798/howto-prepare-a-reference-for-use-with-bwa-and-gatk)  
