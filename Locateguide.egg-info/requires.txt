@@ -1,4 +1,4 @@
-numpy==1.13.3
+numpy==1.22.0
 pyfaidx==0.5.1
 subprocess32==3.2.7
 swalign==0.3.4
